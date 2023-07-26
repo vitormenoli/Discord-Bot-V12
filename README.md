@@ -18,7 +18,4 @@
 <p>Para acompanhar a série de desenvolvimento dos bots, confira o canal do YouTube <a href="https://www.youtube.com/c/oferinha">O Ferinha</a>.</p>
 
 <h2>Contato e Suporte</h2>
-<p>Para obter suporte ou dicas sobre os projetos, junte-se ao servidor do Discord:</p>
-<p align="center">
-  <a href="https://discord.gg/bMq8GC7dJV"><img src="https://i.imgur.com/dgEv1Kh.png" alt="Discord Server" width="200"></a>
-</p>
+<p>Para obter suporte ou dicas sobre os projetos, junte-se ao servidor do <a href="https://discord.gg/bMq8GC7dJV">Discord</a>!</p>
