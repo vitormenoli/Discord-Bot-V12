@@ -1,0 +1,14 @@
+{
+  "name": "bot-com-replit",
+  "version": "1.0.0",
+  "description": "Discord Bot V12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ferinha",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
